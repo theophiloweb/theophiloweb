@@ -1,3 +1,5 @@
+<img src="https://lh3.googleusercontent.com/a/ACg8ocL8rOc5N-lwkGsOTOT6lS78nprrvuo7_K9orDTJZtJpWro=s288-c-no" alt="Foto de Perfil" width="100" height="100" style="border-radius: 50%;">
+
 # Olá, sou [teophilo@gmail.com] 👋
 
 ## Sobre Mim
