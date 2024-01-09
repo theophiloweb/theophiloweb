@@ -1,52 +1,76 @@
-<img src="https://lh3.googleusercontent.com/a/ACg8ocL8rOc5N-lwkGsOTOT6lS78nprrvuo7_K9orDTJZtJpWro=s288-c-no" alt="Foto de Perfil" width="100" height="100" style="border-radius: 50%;">
 
-# Olá, sou [teophilo@gmail.com] 👋
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
 
-## Sobre Mim
-Sou um Desenvolvedor Web graduado em Sistema para Internet pela Unicesumar e especializado em Banco de Dados pela Faceminas. Tenho experiência mediana como desenvolvedor júnior, com foco em programação, administração de banco de dados e sistemas Linux.
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-## Educação
-- Graduação em Sistema para Internet pela Unicesumar
-- Especialização em Banco de Dados pela Faceminas
+<div  align="center" style="margin-bottom:100px">
+![Teófilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theophiloweb&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophiloweb&layout=compact&theme=dark)](https://github.com/theophiloweb/github-readme-stats)
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=theophiloweb&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-theophiloweb.vercel.app/api/top-langs/?username=theophiloweb&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
-## Experiência Profissional
-Atualmente, trabalho como Desenvolvedor Web e também estou envolvido na infraestrutura de redes. Tenho experiência em administração de sistemas Linux e manipulação de serviços como ZABBIX e LDAP.
+## My Skills
 
-## Projetos em Destaque
-1. **Projeto LDAP**
-   - Fork de um projeto relacionado a LDAP
-   - [Link para o Projeto LDAP](link_do_projeto_ldap)
+#### Main Stack:
 
-2. **Projeto ZABBIX**
-   - Fork de um projeto relacionado a ZABBIX
-   - [Link para o Projeto ZABBIX](link_do_projeto_zabbix)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
-## Habilidades
-- Desenvolvimento Web
-- Administração de Banco de Dados
-- Programação em SQL
-- Administração de Sistemas Linux
-- Redes Cabeadas e Wi-Fi
-- Segurança da Informação
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Cursos
-- Linux
-- Redes Cabeadas e Wi-Fi
-- Servidores Linux
-- Segurança da Informação
+#### Secondary Stack:
 
-## Ferramentas e Tecnologias
-- ZABBIX
-- LDAP
-- Grafana
-- (Outras ferramentas que você utiliza)
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-## Projetos Pessoais
-Atualmente, tenho 2 projetos web em produção. Um deles é relacionado ao LDAP e o outro ao ZABBIX.
+#### Studying in this moment:
 
-## Contato
-- [LinkedIn](seu_linkedin)
-- [Email](seu_email)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
-Fique à vontade para explorar meus repositórios e entre em contato para discutir colaborações e oportunidades emocionantes!
+#### Databases:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href="https://localhost" target="_blank"><img src="https://shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:teophilo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/teophiloweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://medium.com/@teophilo" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+
+
 
