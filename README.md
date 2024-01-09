@@ -2,13 +2,82 @@
 <img align="center" style="margin-bottom:100px" width=100% src="logo.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+## GitHub Metrics
 
-<div  align="center" style="margin-bottom:100px">
-![Teófilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theophiloweb&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophiloweb&layout=compact&theme=dark)](https://github.com/theophiloweb/github-readme-stats)
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=theophiloweb&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-theophiloweb.vercel.app/api/top-langs/?username=theophiloweb&show_icons=true&theme=radical&layout=compact" />
- </div>
+![Teófilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theophiloweb&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophiloweb&layout=compact&theme=dark)](https://github.com/theophiloweb/github-readme-stats)
+
+## Contato
+
+- **E-mail:** teophilo@gmail.com
+- **Telefone:** (85) 98206 6953
+- **LinkedIn:** [Teófilo da Silva](www.linkedin.com/in/teophilo)
+- **Endereço:** Rua Almirante Rufino, 517, Vila União, Fortaleza-CE, CEP: 60420-075
+
+## Resumo de Carreira
+
+Sou Subtenente da ativa do Exército Brasileiro da turma de 1993, com experiência em desenvolvimento de software para plataforma web desde 2017, com ênfase em JavaScript, suporte técnico e instalação, bem como configuração de servidores Linux.
+
+ 
+## Experiência Profissional
+
+### 40º Batalhão de Infantaria
+
+- **Período:** 2004 - 2014
+- **Cargo:** Chefe da Seção de Informática
+- **Principais Atividades:** Desenvolvimento de Software, Administração de Sistemas, Suporte Técnico.
+
+### 6º Batalhão de Engenharia de Construção
+
+- **Período:** 2015 - Atualmente
+- **Cargo:** Auxiliar da Seção de Telemática
+- **Principais Atividades:** Administrador de Sistemas, Administrador de Backup, Controle de Material de TI.
+  
+### 6º Batalhão de Engenharia de Construção
+
+- **Período:** 2016
+- **Cargo:** Chefe da Seção de Telemática
+- **Principais Atividades:** Controle de Pessoal Técnico, Administrador das políticas de segurança, Governança de TI.
+
+### 52º Centro de Telemática
+
+- **Período:** 2019 - 2021
+- **Cargo:** Subtenente
+- **Principais Atividades:** Divisão de Operação, Seção de Planejamento e Controle, Infraestrutura Redes Cabeadas e Wireless, Segurança da Informação.
+
+## Formação Acadêmica
+
+- **Tecnólogo em Sistemas para Internet:** CESUMAR - Centro de Ensino Superior de Maringá LTDA, 2021.
+- **Tecnologia em Gestão Pública:** ESIE - Escola de Instrução Especializada, 2021.
+
+## Habilidades Profissionais
+
+### Linguagens de Programação
+
+- JavaScript (Avançado)
+- HTML/CSS (Avançado)
+- PHP (Intermediário)
+
+### Frameworks / Sistemas
+
+- MVC
+- ReactJS
+- VUEJS
+- Linux
+- Proxy
+- Firewall
+- DHCP
+- DNS
+- ITIL
+
+
+## Referências
+
+- 40º Batalhão de Infantaria, Seção de Informática, PABX: (88) 3691-2290
+- 6º Batalhão de Engenharia de Construção, Seção de Informática, PABX: (95) 4009-9900
+
+
  
  &nbsp;
  &nbsp;
