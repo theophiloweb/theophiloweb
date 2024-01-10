@@ -4,7 +4,7 @@
 
 ## GitHub Metrics
 
-![Teófilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theophiloweb&show_icons=true&theme=dark)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=theophiloweb&show_icons=true&theme=radical)](https://github.com/theophiloweb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophiloweb&layout=compact&theme=dark)](https://github.com/theophiloweb/github-readme-stats)
 
