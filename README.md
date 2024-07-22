@@ -16,7 +16,7 @@ Especialista em TI | Desenvolvedor de Sistemas | Analista de Suporte
 📱 (85) 98206 6953  
 📧 teophilo@gmail.com  
 🔗 [LinkedIn: Teófilo da Silva](https://www.linkedin.com/in/teofilo-silva-dev)  
-💻 [GitHub: Projetos Desenvolvidos](https://github.com/seu-username)
+💻 [GitHub: Projetos Desenvolvidos](https://github.com/theophiloweb?tab=repositories)
 
 ## Resumo Profissional
 
@@ -51,21 +51,21 @@ Profissional de TI altamente experiente com mais de 19 anos de atuação no Exé
 
 - **Tecnólogo em Sistemas para Internet** | CESUMAR - Centro de Ensino Superior de Maringá LTDA, 2021
 - **Tecnologia em Gestão Pública** | ESIE - Escola de Instrução Especializada, 2021
-
+- **Especialização Latu Sensu em Banco de Dados** | FACEMINAS - Faculdade de Minas Gerais, 2023
 ## Competências Técnicas
 
 - **Linguagens de Programação:** PHP, Java, Python, JavaScript
 - **Banco de Dados:** SQL, MongoDB
-- **Sistemas e Ferramentas:** Zabbix, Grafana, OTRS, Joomla, Linux
-- **Áreas de Conhecimento:** Segurança da Informação, Formação de Equipes, Administração de Sistemas
+- **Sistemas e Ferramentas:** Zabbix, Grafana, OTRS, Joomla, Linux, Serviços Linux
+- **Áreas de Conhecimento:** SQL, Segurança da Informação, Trabalho em Equipe, Administração de Sistemas
 
 ## Certificações e Cursos
 
-- Segurança da Informação
-- Administração Linux
-- Desenvolvimento em PHP, Java e Python
-- Formação de Equipes
-- SQL Avançado
+- Treinamento em Segurança da Informação
+- Treinamento em Segurança Administração Linux
+- Treinamento em Segurança Desenvolvimento em PHP, Java e Python
+- Treinamento em Segurança Formação de Equipes
+- Treinamento em Segurança SQL Avançado
 
 ## Realizações e Projetos
 
