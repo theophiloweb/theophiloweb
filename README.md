@@ -8,79 +8,82 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophiloweb&layout=compact&theme=dark)](https://github.com/theophiloweb/github-readme-stats)
 
-## Contato
 
-- **E-mail:** teophilo@gmail.com
-- **Telefone:** (85) 98206 6953
-- **LinkedIn:** [Teófilo da Silva](www.linkedin.com/in/teophilo)
-- **Endereço:** Rua Almirante Rufino, 517, Vila União, Fortaleza-CE, CEP: 60420-075
+# Francisco das Chagas Teófilo da Silva
+Especialista em TI | Desenvolvedor de Sistemas | Analista de Suporte
 
-## Resumo de Carreira
+📍 Rua Almirante Rufino, 517, Vila União, Fortaleza-CE, 60420-075  
+📱 (85) 98206 6953  
+📧 teophilo@gmail.com  
+🔗 [LinkedIn: Teófilo da Silva](https://www.linkedin.com/in/teofilo-silva-dev)  
+💻 [GitHub: Projetos Desenvolvidos](https://github.com/seu-username)
 
-Sou Subtenente da ativa do Exército Brasileiro da turma de 1993, com experiência em desenvolvimento de software para plataforma web desde 2017, com ênfase em JavaScript, suporte técnico e instalação, bem como configuração de servidores Linux.
+## Resumo Profissional
 
- 
+Profissional de TI altamente experiente com mais de 19 anos de atuação no Exército Brasileiro. Especializado em administração de sistemas, desenvolvimento de software, e resolução de problemas complexos em ambientes de TI. Autodidata com forte capacidade de adaptação e aprendizado contínuo, capaz de transformar desafios do mundo real em soluções tecnológicas eficientes.
+
 ## Experiência Profissional
 
-### 40º Batalhão de Infantaria
+### 52º Centro de Telemática, Fortaleza-CE
+**Auxiliar da Subseção de Gerenciamento Operacional** | 2022 - Presente
+- Administração de sistemas corporativos e desenvolvimento de novas soluções
+- Manutenção de sistemas e resolução de problemas em serviços Linux
+- Implementação de melhorias em processos operacionais
 
-- **Período:** 2004 - 2014
-- **Cargo:** Chefe da Seção de Informática
-- **Principais Atividades:** Desenvolvimento de Software, Administração de Sistemas, Suporte Técnico.
+**Analista de Suporte** | 2019 - 2021
+- Atendimento e resolução de demandas de suporte de 1º nível
+- Análise e encaminhamento de problemas complexos para níveis superiores
+- Contribuição para a melhoria contínua dos processos de suporte
 
-### 6º Batalhão de Engenharia de Construção
+### 3º Batalhão de Engenharia de Construção, Roraima-RR
+**Adjunto da Seção de Informática** | 2015 - 2018
+- Configuração e instalação de sistemas corporativos
+- Administração avançada de serviços Linux
+- Suporte técnico especializado para toda a unidade
 
-- **Período:** 2015 - Atualmente
-- **Cargo:** Auxiliar da Seção de Telemática
-- **Principais Atividades:** Administrador de Sistemas, Administrador de Backup, Controle de Material de TI.
-  
-### 6º Batalhão de Engenharia de Construção
-
-- **Período:** 2016
-- **Cargo:** Chefe da Seção de Telemática
-- **Principais Atividades:** Controle de Pessoal Técnico, Administrador das políticas de segurança, Governança de TI.
-
-### 52º Centro de Telemática
-
-- **Período:** 2019 - 2021
-- **Cargo:** Subtenente
-- **Principais Atividades:** Divisão de Operação, Seção de Planejamento e Controle, Infraestrutura Redes Cabeadas e Wireless, Segurança da Informação.
+### 40º Batalhão de Infantaria, Crateús-CE
+**Chefe da TI** | 2005 - 2014
+- Gestão dos sistemas corporativos da Unidade
+- Desenvolvimento e manutenção da infraestrutura de redes
+- Administração de serviços Linux e manutenção de hardware
 
 ## Formação Acadêmica
 
-- **Tecnólogo em Sistemas para Internet:** CESUMAR - Centro de Ensino Superior de Maringá LTDA, 2021.
-- **Tecnologia em Gestão Pública:** ESIE - Escola de Instrução Especializada, 2021.
+- **Tecnólogo em Sistemas para Internet** | CESUMAR - Centro de Ensino Superior de Maringá LTDA, 2021
+- **Tecnologia em Gestão Pública** | ESIE - Escola de Instrução Especializada, 2021
 
-## Habilidades Profissionais
+## Competências Técnicas
 
-### Linguagens de Programação
+- **Linguagens de Programação:** PHP, Java, Python, JavaScript
+- **Banco de Dados:** SQL, MongoDB
+- **Sistemas e Ferramentas:** Zabbix, Grafana, OTRS, Joomla, Linux
+- **Áreas de Conhecimento:** Segurança da Informação, Formação de Equipes, Administração de Sistemas
 
-- JavaScript (Avançado)
-- HTML/CSS (Avançado)
-- PHP (Intermediário)
+## Certificações e Cursos
 
-### Frameworks / Sistemas
+- Segurança da Informação
+- Administração Linux
+- Desenvolvimento em PHP, Java e Python
+- Formação de Equipes
+- SQL Avançado
 
-- MVC
-- ReactJS
-- VUEJS
-- Linux
-- Proxy
-- Firewall
-- DHCP
-- DNS
-- ITIL
+## Realizações e Projetos
 
+- Declaração de Experiência e Recomendação do 52º Centro de Telemática
+- Projetos de desenvolvimento disponíveis no GitHub
+- Artigos técnicos publicados no LinkedIn
 
-## Referências
+## Habilidades Adicionais
 
-- 40º Batalhão de Infantaria, Seção de Informática, PABX: (88) 3691-2290
-- 6º Batalhão de Engenharia de Construção, Seção de Informática, PABX: (95) 4009-9900
+- Resolução criativa de problemas
+- Adaptabilidade a novas tecnologias
+- Comunicação efetiva com equipes técnicas e não técnicas
+- Liderança e gestão de projetos de TI
 
+## Referências Profissionais
 
- 
- &nbsp;
- &nbsp;
+Disponíveis mediante solicitação.
+
 
 ## My Skills
 
