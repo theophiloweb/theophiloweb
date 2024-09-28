@@ -9,8 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophiloweb&layout=compact&theme=dark)](https://github.com/theophiloweb/github-readme-stats)
 
 
-# Francisco das Chagas Teófilo da Silva
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 <h1 align="center">Francisco das Chagas Teófilo da Silva</h1>
